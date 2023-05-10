@@ -13,7 +13,7 @@ The client component of the Interactive Protocol allows users to submit computat
 
 ## Usage
 
-1. Start the client: `node index.js`
+1. Start the client: `node client.js`
 2. The client provides a command-line interface (CLI) for users to interact with the Interactive Protocol.
 3. Users can submit their computation tasks by following the prompts and providing the necessary information such as the script to be executed.
 4. The client will interact with the smart contract, submitting the task and monitoring its progress.
